@@ -4,7 +4,12 @@ function Cards() {
   return (
     <div>
       <div class="card mt-5" style={{ width: "18rem", maxHeight: "360px" }}>
-        <img src="..." class="card-img-top" alt="..." />
+        <img
+          style={{ maxHeight: "200px" }}
+          src="https://source.unsplash.com/random/200×200/?pizza"
+          class="card-img-top"
+          alt="..."
+        />
         <div class="card-body">
           <h5 class="card-title">Card title</h5>
           <p class="card-text">This is some important text</p>
