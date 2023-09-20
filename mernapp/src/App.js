@@ -1,3 +1,5 @@
+// 55SJVKwKbIzpp2WI - mongo password
+
 import "./App.css";
 import Home from "./Screens/Home";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
